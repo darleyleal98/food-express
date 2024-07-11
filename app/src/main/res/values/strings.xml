@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FoodExpress</string>
+    <string name="icone_de_pesquisa">ìcone de pesquisa</string>
+    <string name="icone_de_listagem">Ícone de listagem de todos os produtos</string>
+    <string name="barra_de_pesquisa">Barra de pesquisa</string>
+    <string name="cone_de_listagem_de_produtos">Ícone de listagem de produtos</string>
+    <string name="icone_de_fechar">Ícone de fechar</string>
+</resources>
