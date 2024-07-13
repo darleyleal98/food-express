@@ -5,6 +5,8 @@
 
 ### <li> Principais implementações desse aplicativo, que foi colocado em prática. </li>
 
+#
+
 #### <li> Carregamento de imagens via URL </li>
 
 #### <li> Criando um campo de texto </li>
