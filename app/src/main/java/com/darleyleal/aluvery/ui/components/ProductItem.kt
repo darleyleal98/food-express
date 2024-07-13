@@ -76,19 +76,3 @@ fun ProductItem(product: Product) {
         }
     }
 }
-
-@Preview(showSystemUi = true)
-@Composable
-private fun ProductItemPreview() {
-    AluveryTheme {
-        Surface {
-            ProductItem(
-                product = Product(
-                    name = LoremIpsum(50).values.first(),
-                    price = BigDecimal("14.99"),
-                    image = "https://img.cybercook.com.br/receitas/327/receita-de-banoffee-1.jpeg"
-                )
-            )
-        }
-    }
-}

@@ -5,4 +5,5 @@
     <string name="barra_de_pesquisa">Barra de pesquisa</string>
     <string name="cone_de_listagem_de_produtos">Ícone de listagem de produtos</string>
     <string name="icone_de_fechar">Ícone de fechar</string>
+    <string name="o_que_voce_procura">O que você procura?</string>
 </resources>
