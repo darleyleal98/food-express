@@ -3,7 +3,7 @@
   
 ### <li> Linguagem do projeto: Kotlin, com o Jetpack Composable🚀🚀 </li>
 
-### <li> Principais implementações desse aplicativo, que foi colocado em prática. </li>
+### <li> Conteúdo que foi colocado em prática: </li>
 
 #
 
