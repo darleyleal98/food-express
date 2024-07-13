@@ -5,13 +5,12 @@
 
 ### <li> Principais implementações desse aplicativo, que foi colocado em prática. </li>
 
-<span style="color:blue;">Carregamento de imagens via URL</span>
-<span style="color:blue;">Criando um campo de texto</span>
-<span style="color:blue;">Gerenciamento de estados</span>
-<span style="color:blue;">Lazy Layout</span>
-<span style="color:blue;">State Hoisting</span>
-<span style="color:blue;">API de Slot</span>
-
+<h6>Carregamento de imagens via URL</h6>
+<h6>Criando um campo de texto</h6>
+<h6>Gerenciamento de estados</h6>
+<h6>Lazy Layout</h6>
+<h6>State Hoisting</h6>
+<h6>API de Slot</h6>
 
 <video
   controls
